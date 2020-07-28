@@ -56,7 +56,7 @@ public class UnlaunchPatcher {
 			new UnlaunchPatcher(args[0], args[1], args[2]);
 		}
 		else {
-			System.out.println("Usage: java -jar UnlaunchPatcher.jar image.gif unlaunch.dsi output.dsi");
+			System.out.println("Usage: java -jar UnlaunchGIFPatcher.jar image.gif unlaunch.dsi output.dsi");
 		}
 	}
 }
